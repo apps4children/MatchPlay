@@ -5,7 +5,7 @@ MatchPlay
 
 2.Institute: IIT Kanpur
 
-About
+App Description
 
 This game helps the children to learn about differentiating between Upper case and lower case and numbers. 
 The children have to match the lower case alphabets with Upper case alphabets. And to match numbers with numbers. 
